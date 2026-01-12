@@ -1,6 +1,6 @@
 # 🦦 Otter Sniper — Solana Sniper Platform.
 
-Otter Sniper is a next-generation Solana sniper platform built to deliver a fast, immersive, real-time trading experience.
+Otter Sniper is a next-generation Solana sniper platform built to deliver a fast, immersive, real-time trading experience
 
 Live bots.  
 Execution logs.  
